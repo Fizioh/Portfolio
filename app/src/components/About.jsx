@@ -38,8 +38,8 @@ const About = () => {
   return (
     <>
       <motion.div variant={textVariant()}>
-        <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <p className={styles.sectionSubText}>は日本語で</p>
+        <h2 className={styles.sectionHeadText}>Intro</h2>
       </motion.div>
       <motion.p variant={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
