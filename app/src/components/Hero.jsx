@@ -7,10 +7,10 @@ import 'tippy.js/animations/scale.css';
 import { ComputersCanvas } from './canvas'
 
 const Hero = () => {
-  const japaneseText = 'おはよう'; // Votre texte japonais
-  const translatedText = 'Bonjour'; // Votre texte traduit
-  const japaneseText2 = 'だぜ'; // Votre texte japonais
-  const translatedText2 = "moi c'est Yassine"; // Votre texte traduit
+  const japaneseText = "Bienvenue sur mon" //'おはよう';
+  const translatedText = 'Bonjour'; 
+  const japaneseText2 = 'だぜ'; 
+  const translatedText2 = "moi c'est Yassine"; 
 
 
   return (
@@ -36,8 +36,8 @@ const Hero = () => {
             <span className="text-white rounded p-2">
               {japaneseText}
             </span>
-          </Tippy>,
-            <span className='text-[#915eff]'>Yassine</span>,
+          </Tippy>
+            <span className='text-[#915eff]'>Portfolio</span>,
             <Tippy
             content={translatedText2}
             animation="scale-subtle"
