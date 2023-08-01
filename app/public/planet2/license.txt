@@ -1,0 +1,11 @@
+Model Information:
+* title:	Submarine fiber optic cable network
+* source:	https://sketchfab.com/3d-models/submarine-fiber-optic-cable-network-a952ca4b21fd4ad194a261901414b02f
+* author:	Advanced Visualization Lab - Indiana University (https://sketchfab.com/AVL)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Submarine fiber optic cable network" (https://sketchfab.com/3d-models/submarine-fiber-optic-cable-network-a952ca4b21fd4ad194a261901414b02f) by Advanced Visualization Lab - Indiana University (https://sketchfab.com/AVL) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
